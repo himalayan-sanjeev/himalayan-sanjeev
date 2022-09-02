@@ -1,4 +1,4 @@
-## <h1 align="center"> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="65px" height="65px"/> Hi, I'm himalayan-sanjeev <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="65px" height="65px"/>
+## <h1 align="center"> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="65px" height="65px"/> Hi, I'm Sanjeev <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="65px" height="65px"/>
 </h1>
 
 
